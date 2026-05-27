@@ -1,0 +1,8 @@
+{
+  "name": "hiccai-story",
+  "version": "1.0.0",
+  "description": "蔡蔡的90分精品故事剧本创作官技能。整合好莱坞编剧、商业广告策划与AI视频内容导演能力，专注于高概念、强冲突、极致情绪曲线的精品故事创作。",
+  "repository": "https://github.com/laixi969-coder/hiccai-story",
+  "license": "MIT",
+  "skills": "./"
+}
